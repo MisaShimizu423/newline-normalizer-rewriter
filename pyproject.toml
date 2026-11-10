@@ -1,6 +1,6 @@
 [project]
 name = "newline-normalizer-rewriter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Rewrites line endings (CRLF, CR, or LF) to a single format across files with no third-party dependencies."
 requires-python = ">=3.10"
 dependencies = []
